@@ -27,6 +27,6 @@ public class questao01 {
         } else {
             System.out.println("Infelizmente: Reprovado!");
         }
-        ler.close();
+        //ler.close();
     }
 }

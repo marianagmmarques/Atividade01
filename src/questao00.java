@@ -28,7 +28,7 @@ public class questao00 {
     //Anos 58,62,70,94 e 2002
     System.out.println("Digite seu idade:");
     int idade1 = ler.nextInt();
-    ler.close();
+    //ler.close();
 
     int anoNascimento = 2022 - idade1;
 

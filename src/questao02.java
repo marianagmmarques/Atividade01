@@ -26,6 +26,6 @@ public class questao02 {
         
         //Decrementando 2 números o incremente + digitado
         System.out.println("Decrementar: "+(numero -= 2));
-        ler.close();
+        //ler.close();
     }
 }

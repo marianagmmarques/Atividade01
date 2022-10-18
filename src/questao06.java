@@ -18,6 +18,6 @@ public class questao06 {
         
         //Apresentando o resultado na tela
         System.out.println("Cada pessoa irá pagar: "+resultado+" reais!");
-        ler.close();
+        //ler.close();
     }
 }

@@ -26,6 +26,6 @@ public class questao04 {
         
         // Mostrando as informações
         System.out.println(""+nome+" você vai receber R$"+resultado);
-        ler.close();
+        //ler.close();
     }
 }

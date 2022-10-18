@@ -18,6 +18,6 @@ public class questao05 {
         // Mostrando as informações
         System.out.println("A gorjeta do garçom sai: "+porcentagem);
         System.out.println("O total a ser pago com a gorjeta: "+valortotal);
-        ler.close();
+        //ler.close();
             }
 }

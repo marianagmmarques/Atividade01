@@ -15,6 +15,6 @@ public class questao03 {
 
         // Mostrando o nome
         System.out.println("Olá "+nome);
-        ler.close();
+        //ler.close();
     }
 }
